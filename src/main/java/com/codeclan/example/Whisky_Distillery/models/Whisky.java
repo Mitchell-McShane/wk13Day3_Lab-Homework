@@ -1,7 +1,6 @@
 package com.codeclan.example.Whisky_Distillery.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import org.springframework.data.annotation.Id;
 
 import javax.persistence.*;
 

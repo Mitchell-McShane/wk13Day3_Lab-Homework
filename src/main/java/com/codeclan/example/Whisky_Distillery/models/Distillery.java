@@ -30,6 +30,9 @@ public class Distillery {
         this.whiskies = new ArrayList<>();
     }
 
+    public Distillery() {
+    }
+
     public Long getId() {
         return id;
     }
